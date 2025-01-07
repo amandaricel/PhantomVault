@@ -1,0 +1,1 @@
+Remove database queries for bugfix (legacy) - Implemented a new feature to enhance database queries.
