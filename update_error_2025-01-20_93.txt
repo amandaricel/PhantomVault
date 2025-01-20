@@ -1,0 +1,1 @@
+Update error handling for service (legacy) - Implemented a new feature to enhance error handling.
