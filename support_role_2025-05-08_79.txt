@@ -1,0 +1,1 @@
+Support role management for branch (easy) - Implemented a new feature to enhance role management.
