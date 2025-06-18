@@ -1,0 +1,1 @@
+Remove database queries for synchronization (complex) - Implemented a new feature to enhance database queries.
