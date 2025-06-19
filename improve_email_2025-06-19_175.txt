@@ -1,0 +1,1 @@
+Improve email verification for validation (low-priority) - Implemented a new feature to enhance email verification.
