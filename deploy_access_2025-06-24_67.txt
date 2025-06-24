@@ -1,0 +1,1 @@
+Deploy access control for database (simplified) - Implemented a new feature to enhance access control.
