@@ -1,0 +1,1 @@
+Support API calls for performance (simplified) - Implemented a new feature to enhance API calls.
