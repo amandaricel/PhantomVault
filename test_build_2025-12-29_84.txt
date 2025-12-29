@@ -1,0 +1,1 @@
+Test build pipeline for endpoint (advanced) - Implemented a new feature to enhance build pipeline.
