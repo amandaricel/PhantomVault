@@ -1,0 +1,1 @@
+Support role management for server (simplified) - Implemented a new feature to enhance role management.
